@@ -1,4 +1,4 @@
-# Business Analytics Nanodegree Projects
+# Business Analytics Nanodegree
 
 ## Overview
 This repository contains my projects completed during [Udacity's Business Analytics Nanodegree Program](https://www.udacity.com/course/business-analytics-nanodegree--nd098). The program emphasizes the development of foundational data skills applicable across various functions and industries. Through this program, I achieved proficiency in:
