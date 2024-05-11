@@ -25,7 +25,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 
 ### Project 2: Analyzing NYSE Data
 #### Description
-In this project, I analyzed NYSE data to derive insights into financial trends. The dataset was obtained from Kaggle and involved analyzing financial metrics using Excel.
+> In this project, I analyzed NYSE data to derive insights into financial trends. The dataset was obtained from Kaggle and involved analyzing financial metrics using Excel.
 
 #### Project Link
 [Project 2: Analyze NYSE Data](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%202%20-%20Analyze%20NYSE%20Data)
@@ -35,7 +35,7 @@ In this project, I analyzed NYSE data to derive insights into financial trends. 
 
 ### Project 3: SQL for Data Analysis
 #### Description
-In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
+> In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
 
 #### Project Link
 [Project 3: Query a Digital Music Store Database](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database)
@@ -45,7 +45,7 @@ In this project, I queried the Chinook Database, which contains information abou
 
 ### Project 4: Data Visualization
 #### Description
-The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
+> The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
 
 #### Project Link
 [Project 4: Build Data Dashboards](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%204%20-%20Build%20Data%20Dashboards)
