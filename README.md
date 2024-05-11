@@ -24,7 +24,7 @@ In this project, I analyzed NYSE data to derive insights into financial trends. 
 #### Dataset Link
 [Kaggle NYSE Dataset](https://www.kaggle.com/datasets/dgawlik/nyse)
 
-### Project 3: Chinook Database Analysis
+### Project 3: SQL for Data Analysis
 #### Description
 In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
 
