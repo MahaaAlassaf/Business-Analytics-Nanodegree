@@ -9,7 +9,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 
 - **Building Interactive Dashboards and Visualizations with Tableau:** Mastered the creation of interactive dashboards and visualizations in Tableau to effectively communicate insights derived from data analysis.
 
-## Projects
+# Projects
 
 ## Project 1: Tableau Dashboard Exploration
 ### Description
