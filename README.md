@@ -9,13 +9,11 @@ This repository contains my projects for Udacity's Business Analytics Nanodegree
 
 ### Project 1: Tableau Dashboard Exploration
 #### Description
-In this project, I explored a Tableau dashboard to enhance my data interpretation and communication skills. The dashboard provided visualizations related to malaria in Africa, and I identified insight from the visualizations provided. The insights were then explained concisely in a report.
+In this project, I explored a Tableau dashboard to enhance my data interpretation and communication skills. The dashboard provided visualizations related to malaria in Africa, and I identified three insights from the visualizations provided. These insights were then explained concisely in a report along with corresponding screen capture images.
 
 #### Project Link
-[Project 1: Tableau Dashboard](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
+[Project 1: Interpret a Data Visualization](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/c98e72fff8824fef3c03c4a655f9ea1a549ff926/Project%201%20-%20Interpret%20a%20Data%20Visualization)
 
-#### Report
-[PDF Report](insert_link_here)
 
 ### Project 2: Analyzing NYSE Data
 #### Description
@@ -24,19 +22,21 @@ In this project, I analyzed NYSE data to derive insights into financial trends. 
 #### Dataset Link
 [Kaggle NYSE Dataset](https://www.kaggle.com/datasets/dgawlik/nyse)
 
+
 ### Project 3: Chinook Database Analysis
 #### Description
 In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
 
 #### Dataset Link
-[Chinook Database](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/blob/533157b8f139404bc8f3dbac2e9058e9b3a33fa4/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database/Chinook%20Database.db)
+[Chinook Database](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/c98e72fff8824fef3c03c4a655f9ea1a549ff926/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database)
+
 
 ### Project 4: Data Visualization using US Census Demographic Data
 #### Description
-The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
+The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to tell a story or highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
 
 #### Dataset Link
-[US Census Demographic Data](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/blob/533157b8f139404bc8f3dbac2e9058e9b3a33fa4/Project%204%20-%20Build%20Data%20Dashboards/Dataset%20(US%20Census%20Demographic%20Data).zip)
+[US Census Demographic Data](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/c98e72fff8824fef3c03c4a655f9ea1a549ff926/Project%204%20-%20Build%20Data%20Dashboards)
 
 ---
 
