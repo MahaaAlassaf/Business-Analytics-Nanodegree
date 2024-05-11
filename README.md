@@ -35,7 +35,7 @@ In this project, I queried the Chinook Database, which contains information abou
 [Project 3: Query a Digital Music Store Database](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database)
 
 #### Dataset Link
-[Chinook Database](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/blob/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database/Chinook%20Database.db)
+[Chinook Database](https://github.com/lerocha/chinook-database)
 
 ### Project 4: Data Visualization
 #### Description
