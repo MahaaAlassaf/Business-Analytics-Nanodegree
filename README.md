@@ -32,7 +32,6 @@ This repository contains my projects completed during [Udacity's Business Analyt
 [Kaggle NYSE Dataset](https://www.kaggle.com/datasets/dgawlik/nyse)
 
 
-
 ## Project 3: SQL for Data Analysis
 #### Description
 > In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
