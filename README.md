@@ -15,7 +15,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 
 ### Project 1: Tableau Dashboard Exploration
 #### Description
-| In this project, I explored a Tableau dashboard to enhance my data interpretation and communication skills. Then, I wrote a short report explaining each insight and detailing how I found the information to reach my conclusions from the dashboard.
+> In this project, I explored a Tableau dashboard to enhance my data interpretation and communication skills. Then, I wrote a short report explaining each insight and detailing how I found the information to reach my conclusions from the dashboard.
 
 #### Project Link
 [Project 1: Interpret a Data Visualization](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%201%20-%20Interpret%20a%20Data%20Visualization)
