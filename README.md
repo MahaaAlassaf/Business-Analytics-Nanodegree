@@ -1,7 +1,10 @@
 # Business Analytics Nanodegree Projects
 
 ## Overview
-This repository contains my projects for Udacity's Business Analytics Nanodegree Program. The program focuses on developing foundational data skills applicable across various functions and industries. Through this program, I gained proficiency in analyzing data using Excel, querying databases using SQL, and building interactive dashboards and visualizations in Tableau. The main objectives of this nanodegree are to gain foundational data skills applicable to any industry, collect and analyze data, model business scenarios, and effectively communicate findings using SQL, Excel, and Tableau.
+This repository contains my projects for This repository contains my projects for [Udacity's Business Analytics Nanodegree Program]. The program focuses on developing foundational data skills applicable across various functions and industries. Through this program, I gained proficiency in analyzing data using Excel, querying databases using SQL, and building interactive dashboards and visualizations in Tableau. The main objectives of this nanodegree are to gain foundational data skills applicable to any industry, collect and analyze data, model business scenarios, and effectively communicate findings using SQL, Excel, and Tableau.
+
+
+Udacity's Business Analytics Nanodegree Program. The program focuses on developing foundational data skills applicable across various functions and industries. Through this program, I gained proficiency in analyzing data using Excel, querying databases using SQL, and building interactive dashboards and visualizations in Tableau. The main objectives of this nanodegree are to gain foundational data skills applicable to any industry, collect and analyze data, model business scenarios, and effectively communicate findings using SQL, Excel, and Tableau.
 
 ---
 
