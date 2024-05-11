@@ -46,7 +46,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 
 ## Project 4: Data Visualization
 #### Description
-> The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
+> The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization.
 
 #### Project Link
 [Project 4: Build Data Dashboards](https://github.com/MahaaAlassaf/Business-Analytics-Nanodegree/tree/440ce8f6b7e4d98c46b21e8f55b7a7928878b792/Project%204%20-%20Build%20Data%20Dashboards)
