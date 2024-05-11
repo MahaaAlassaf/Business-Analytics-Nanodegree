@@ -19,7 +19,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 #### Dataset Link
 [Tableau Dashboard](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
-### Project 2: Analyzing NYSE Data
+## Project 2: Analyzing NYSE Data
 #### Description
 > In this project, I analyzed NYSE data to derive insights into financial trends. The dataset was obtained from Kaggle and involved analyzing financial metrics using Excel.
 
@@ -29,7 +29,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 #### Dataset Link
 [Kaggle NYSE Dataset](https://www.kaggle.com/datasets/dgawlik/nyse)
 
-### Project 3: SQL for Data Analysis
+## Project 3: SQL for Data Analysis
 #### Description
 > In this project, I queried the Chinook Database, which contains information about a music store. The objective was to assist the Chinook team in understanding their media inventory, customer behavior, and sales patterns.
 
@@ -39,7 +39,7 @@ This repository contains my projects completed during [Udacity's Business Analyt
 #### Dataset Link
 [Chinook Database](https://github.com/lerocha/chinook-database)
 
-### Project 4: Data Visualization
+## Project 4: Data Visualization
 #### Description
 > The goal of this project was to create visualizations that reveal insights from a dataset containing US Census demographic data. The visualizations aimed to highlight patterns in the dataset, utilizing principles of data visualization and effective communication.
 
